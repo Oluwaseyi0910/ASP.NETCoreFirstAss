@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NETCoreFirstAss", "ASP.NETCoreFirstAss\ASP.NETCoreFirstAss.csproj", "{FFAB4AA9-D12F-4E8E-B166-297F89E1C0F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFAB4AA9-D12F-4E8E-B166-297F89E1C0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAB4AA9-D12F-4E8E-B166-297F89E1C0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAB4AA9-D12F-4E8E-B166-297F89E1C0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAB4AA9-D12F-4E8E-B166-297F89E1C0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0533143-8380-4780-8B0D-E8F48F00EABF}
+	EndGlobalSection
+EndGlobal
